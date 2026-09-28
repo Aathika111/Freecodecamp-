@@ -4,5 +4,8 @@
   "author": "Aathika",
   "description": "A simple Node.js project for learning and practicing JavaScript",
   "keywords": ["freecodecamp", "javascript", "nodejs", "learning"],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@freecodecamp/example": "1.1.0"
+  }
 }
