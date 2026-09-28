@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "author": "Aathika",
   "description": "A simple Node.js project for learning and practicing JavaScript",
-  "keywords": ["freecodecamp", "javascript", "nodejs", "learning"]
+  "keywords": ["freecodecamp", "javascript", "nodejs", "learning"],
+  "license": "MIT"
 }
